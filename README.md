@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/LSV15g6/Logo-fastponto.png"></p>
+<p align="center"><img src="https://i.imgur.com/0sd9ncV.png"></p>
 
 # Teste prático - Laravel
 
